@@ -1,4 +1,0 @@
-﻿调试文本
-你好
-hello
-people
